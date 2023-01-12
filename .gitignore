@@ -1,0 +1,6 @@
+*.pdf
+poetry.lock
+*.zip
+*.ipynb_checkpoints/
+*.mypy_cache/
+
