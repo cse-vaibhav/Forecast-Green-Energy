@@ -14,7 +14,7 @@ $ jupyter notebook Notebook.ipynb
 
 # Approach
 
-- Split the `datetiem` feature into
+- Split the `datetime` feature into
 
   - year
   - month
